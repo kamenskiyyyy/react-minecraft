@@ -1,7 +1,7 @@
 import {Canvas} from 'react-three-fiber';
 import {Sky} from 'drei';
 import {Physics} from 'use-cannon';
-import {Ground} from './components/Ground';
+import Ground from './components/Ground';
 import {Player} from './components/Player';
 import {Cube} from './components/Cube';
 
