@@ -1,4 +1,4 @@
-import { useEffect, useRef } from 'react';
+import React, { useEffect, useRef } from 'react';
 import { useSphere } from 'use-cannon';
 import { useThree, useFrame } from 'react-three-fiber';
 import { FPVControls } from './FPVControls';

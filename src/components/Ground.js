@@ -1,3 +1,4 @@
+import React from 'react';
 import { usePlane } from 'use-cannon';
 import { TextureLoader, RepeatWrapping } from 'three';
 import grass from '../images/grass.jpg';

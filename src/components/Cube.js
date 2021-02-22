@@ -1,4 +1,4 @@
-import { memo } from 'react';
+import React, { memo } from 'react';
 import { useBox } from 'use-cannon';
 import { useState } from 'react';
 import * as textures from '../textures';

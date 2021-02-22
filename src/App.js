@@ -1,3 +1,4 @@
+import React from 'react';
 import { Canvas } from 'react-three-fiber';
 import { Sky } from 'drei';
 import { Physics } from 'use-cannon';
